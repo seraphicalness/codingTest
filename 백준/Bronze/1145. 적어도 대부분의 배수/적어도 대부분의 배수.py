@@ -1,3 +1,5 @@
+# 브루트포스 알고리즘
+# 하나씩 올리면서 찾기
 num = list(map(int,input().split()))
 
 min = min(num)
