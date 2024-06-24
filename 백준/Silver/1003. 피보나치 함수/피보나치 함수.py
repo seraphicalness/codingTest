@@ -1,16 +1,6 @@
 dp = [[0,0] for  _ in range(41)]
 dp[0] = [1,0]
 dp[1] = [0,1]
-# dp[2] = 1
-# dp[3] = 2
-# dp[4] = 3
-# dp[5] = 5
-# dp[6] = 8
-# dp[7] = 13
-# dp[8] = 21
-
-
-# print(dp)
 
 T = int(input())
 
