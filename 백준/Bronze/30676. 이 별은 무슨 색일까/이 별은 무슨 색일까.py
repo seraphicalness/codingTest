@@ -1,0 +1,8 @@
+T = int(input())
+if 380 <= T < 425: print("Violet")
+elif T < 450: print("Indigo")
+elif T < 495: print("Blue")
+elif T < 570: print("Green")
+elif T < 590: print("Yellow")
+elif T < 620: print("Orange")
+elif T <= 780: print("Red")
